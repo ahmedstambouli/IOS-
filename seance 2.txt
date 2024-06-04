@@ -1,0 +1,8 @@
+cycle de vie de storyboord :
+
+1)loadview
+2)viewdidload
+3)viewwillappear
+4)viewdidapper
+5)viewwilldisappear
+6)viewdidisapper
